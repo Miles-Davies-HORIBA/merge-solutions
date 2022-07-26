@@ -6,7 +6,7 @@
         <PackageLicenseExpression>GPL-3.0-only</PackageLicenseExpression>
         <RepositoryUrl>https://github.com/myPinPad/opensource-merge-solutions</RepositoryUrl>
 
-        <TargetFramework>netcoreapp2.2</TargetFramework>
+        <TargetFramework>net5.0</TargetFramework>
         <OutputType>Exe</OutputType>
         <PackAsTool>true</PackAsTool>
     </PropertyGroup>
